@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://embitterlorrycar.com/a2ge5d64r?key=220d7bca90f38e428313a44ccdd4cdcd`
+					`https://embitterlorrycar.com/y6kuambe?key=7eb4d297f068e940203f5856c753ff9c`
 				}`,
 			},
 		};
