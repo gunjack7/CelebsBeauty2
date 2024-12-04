@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://flipboard.com/redirect?url=https%3A%2F%2Fembitterlorrycar.com%2Fa2ge5d64r%3Fkey%3D220d7bca90f38e428313a44ccdd4cdcd%26utm_source%3Dflipboard%26utm_content%3DUmer7sat%252Fmagazine%252FCelebrity%2BVideos%2B&v=9aKa0F6dY5e8D5IbLZWnRrKmXS1Y8SkZLJEMZktAiAMAAAGTOzFTvw`
+					`https://flipboard.com/redirect?url=https%3A%2F%2Fembitterlorrycar.com%2Fh016nqqj1z%3Fkey%3D98652a0a8230bc579601e341b5bd5c69%26utm_source%3Dflipboard%26utm_content%3DUmer7sat%252Fmagazine%252FCelebrity%2BX&v=AxTfhbeA8YNbstZcm_9_ISVH0DGj0x1EAQzbQn_wGfAAAAGTktcBHA`
 				}`,
 			},
 		};
